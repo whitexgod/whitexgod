@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
 
-[![Website](https://designshack.net/wp-content/uploads/website-button-design.png)](https://whitexgod.github.io/cv-2/index.html)
+[![Website](https://icons.iconarchive.com/icons/paomedia/small-n-flat/256/sign-right-icon.png)](https://whitexgod.github.io/cv-2/index.html)
 
 <!--
 **whitexgod/whitexgod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
