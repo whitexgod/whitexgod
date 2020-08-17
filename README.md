@@ -1,4 +1,4 @@
-### Hi there, I'm Whitexgod - aka [Tuhin Mukherjee][website] 👋
+### Hi there, I'm whitexgod - aka [Tuhin Mukherjee][website] 👋
 
 [![Website](https://media3.giphy.com/media/dCERkihZ9m7xjIvSau/source.gif)](https://whitexgod.github.io/cv-2/index.html)
 
@@ -52,12 +52,20 @@ Below are the three main areas of my core interest :-
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 ###Fun fact :😂
 
 Programmers spend more time debugging than coding!
 
+---
+
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=whitexgod&show_icons=true&hide_border=true" />
+
+</details>
 
 
 [website]: https://whitexgod.github.io/cv-2/index.html
