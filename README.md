@@ -1,6 +1,7 @@
 ### Hi there 👋
 ### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://whitexgod.github.io/cv-2/index.html)
 
 <!--
 **whitexgod/whitexgod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
