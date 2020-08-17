@@ -54,7 +54,7 @@ Below are the three main areas of my core interest :-
 
 ---
 
-###Fun fact :😂
+## Fun fact :😂
 
 Programmers spend more time debugging than coding!
 
@@ -63,7 +63,7 @@ Programmers spend more time debugging than coding!
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=whitexgod&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-delta-eight.vercel.app/api?username=whitexgod&show_icons=true&hide_border=true" />
 
 </details>
 
