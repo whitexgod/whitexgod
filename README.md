@@ -46,6 +46,7 @@ Below are the three main areas of my core interest :-
 <img width="70" height="70" align="left" alt="Web development icon" src="https://previews.123rf.com/images/valentint/valentint1704/valentint170400663/75401421-web-development-icon-web-development-website-button-on-white-background-.jpg">
 <img width="100" height="70" align="left" alt="Javascript icon" src="https://user-images.githubusercontent.com/30186107/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png">
 <img width="70" height="70" align="left" alt="Blockchain icon" src="https://thumbs.dreamstime.com/z/blockchain-icon-design-cryptocurrency-vector-digital-logo-blockchain-icon-design-cryptocurrency-vector-digital-logo-201091629.jpg">
+<br><br>
 
 ---
 
