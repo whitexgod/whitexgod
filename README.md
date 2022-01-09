@@ -41,23 +41,26 @@ Below are the three main areas of my core interest :-
 
 ### Languages and Tools:
 
-<img width="100" height="100" align="left" alt="Java icon" src="https://i.pinimg.com/236x/02/55/3a/02553ab35a4a3541b9fb3bc8f1fad1bc.jpg">
-<img width="100" height="100" align="left" alt="Pyhton icon" src="https://image.pngaaa.com/282/619282-middle.png">
-<img width="100" height="100" align="left" alt="C icon" src="https://cdn5.vectorstock.com/i/1000x1000/39/29/letter-c-icon-symbol-design-template-sign-type-vector-20953929.jpg">
-<img width="100" height="100" align="left" alt="Machine Learning icon" src="https://www.kindpng.com/picc/m/255-2554071_beltech-2018-icons-webside-schedule-machine-learning-machine.png">
-<img width="100" height="100" align="left" alt="Web development icon" src="https://previews.123rf.com/images/valentint/valentint1704/valentint170400663/75401421-web-development-icon-web-development-website-button-on-white-background-.jpg">
-<img width="150" height="100" align="left" alt="Javascript icon" src="https://user-images.githubusercontent.com/30186107/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png">
-<img width="100" height="100" align="left" alt="Blockchain icon" src="https://thumbs.dreamstime.com/z/blockchain-icon-design-cryptocurrency-vector-digital-logo-blockchain-icon-design-cryptocurrency-vector-digital-logo-201091629.jpg"><br><br><br><br>
+<img width="100" height="100" align="left" alt="Java icon" src="https://i.pinimg.com/236x/02/55/3a/02553ab35a4a3541b9fb3bc8f1fad1bc.jpg"><br>
+<img width="100" height="100" align="left" alt="Pyhton icon" src="https://image.pngaaa.com/282/619282-middle.png"><br>
+<img width="100" height="100" align="left" alt="C icon" src="https://cdn5.vectorstock.com/i/1000x1000/39/29/letter-c-icon-symbol-design-template-sign-type-vector-20953929.jpg"><br>
+<img width="100" height="100" align="left" alt="Machine Learning icon" src="https://www.kindpng.com/picc/m/255-2554071_beltech-2018-icons-webside-schedule-machine-learning-machine.png"><br>
+<img width="100" height="100" align="left" alt="Web development icon" src="https://previews.123rf.com/images/valentint/valentint1704/valentint170400663/75401421-web-development-icon-web-development-website-button-on-white-background-.jpg"><br>
+<img width="150" height="100" align="left" alt="Javascript icon" src="https://user-images.githubusercontent.com/30186107/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png"><br>
+<img width="100" height="100" align="left" alt="Blockchain icon" src="https://thumbs.dreamstime.com/z/blockchain-icon-design-cryptocurrency-vector-digital-logo-blockchain-icon-design-cryptocurrency-vector-digital-logo-201091629.jpg"><br>
 <br>
 <br>
----
+<br>
+<br>
+<br>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ## Fun fact :😂
 
 Programmers spend more time debugging than coding!
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
