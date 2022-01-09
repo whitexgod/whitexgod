@@ -39,7 +39,7 @@ Below are the three main areas of my core interest :-
 
 ### Languages and Tools:
 
-<img width="70" height="70" float="left" alt="Java icon" src="https://i.pinimg.com/236x/02/55/3a/02553ab35a4a3541b9fb3bc8f1fad1bc.jpg">
+<img width="70" height="70" align="left" alt="Java icon" src="https://i.pinimg.com/236x/02/55/3a/02553ab35a4a3541b9fb3bc8f1fad1bc.jpg">
 <img width="70" height="70" alt="Pyhton icon" src="https://image.pngaaa.com/282/619282-middle.png">
 <img width="70" height="70" alt="C icon" src="https://cdn5.vectorstock.com/i/1000x1000/39/29/letter-c-icon-symbol-design-template-sign-type-vector-20953929.jpg">
 <img width="70" height="70" alt="Machine Learning icon" src="https://www.kindpng.com/picc/m/255-2554071_beltech-2018-icons-webside-schedule-machine-learning-machine.png">
