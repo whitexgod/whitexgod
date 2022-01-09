@@ -1,9 +1,5 @@
 ### Hi there, I'm whitexgod - aka [Tuhin Mukherjee][website] 👋
 
-[![Website](https://media3.giphy.com/media/dCERkihZ9m7xjIvSau/source.gif)](https://whitexgod.github.io/cv-2/index.html)
-
-
-
 <a href="https://whitexgod.github.io/cv-2/index.html">
   <img width="100" height="100" align="left" alt="Tap me icon" src="https://media3.giphy.com/media/dCERkihZ9m7xjIvSau/source.gif"> </a> 
 
@@ -63,12 +59,6 @@ Programmers spend more time debugging than coding!
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-delta-eight.vercel.app/api?username=whitexgod&show_icons=true&hide_border=true" />
-
-</details>
 
 
 [website]: https://whitexgod.github.io/cv-2/index.html
