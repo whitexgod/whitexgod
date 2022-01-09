@@ -38,7 +38,7 @@ Below are the three main areas of my core interest :-
 <br />
 
 ### Languages and Tools:
-
+![foxdemo](https://github.com/foxdemo/foxdemo.github.io/blob/master/assets/images/avatar.png)
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 
 
