@@ -45,10 +45,10 @@ Below are the three main areas of my core interest :-
 <img width="100" height="100" align="left" alt="Machine Learning icon" src="https://www.kindpng.com/picc/m/255-2554071_beltech-2018-icons-webside-schedule-machine-learning-machine.png">
 <img width="100" height="100" align="left" alt="Web development icon" src="https://previews.123rf.com/images/valentint/valentint1704/valentint170400663/75401421-web-development-icon-web-development-website-button-on-white-background-.jpg">
 <img width="150" height="100" align="left" alt="Javascript icon" src="https://user-images.githubusercontent.com/30186107/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png">
-<img width="100" height="100" align="left" alt="Blockchain icon" src="https://thumbs.dreamstime.com/z/blockchain-icon-design-cryptocurrency-vector-digital-logo-blockchain-icon-design-cryptocurrency-vector-digital-logo-201091629.jpg"><br>
+<img width="100" height="100" align="left" alt="Blockchain icon" src="https://thumbs.dreamstime.com/z/blockchain-icon-design-cryptocurrency-vector-digital-logo-blockchain-icon-design-cryptocurrency-vector-digital-logo-201091629.jpg"><br><br><br><br>
 <br>
 <br>
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 
 ## Fun fact :😂
