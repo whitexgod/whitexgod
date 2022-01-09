@@ -2,6 +2,12 @@
 
 [![Website](https://media3.giphy.com/media/dCERkihZ9m7xjIvSau/source.gif)](https://whitexgod.github.io/cv-2/index.html)
 
+
+
+<a href="https://whitexgod.github.io/cv-2/index.html">
+  <img width="100" height="100" align="left" alt="Tap me icon" src="https://media3.giphy.com/media/dCERkihZ9m7xjIvSau/source.gif"> </a> 
+
+
 <!--
 **whitexgod/whitexgod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
