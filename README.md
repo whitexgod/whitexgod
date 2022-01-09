@@ -39,7 +39,7 @@ Below are the three main areas of my core interest :-
 
 ### Languages and Tools:
 
-<img width="40" height="40" alt="Java icon" src="https://i.pinimg.com/236x/02/55/3a/02553ab35a4a3541b9fb3bc8f1fad1bc.jpg">
+<img width="60" height="60" alt="Java icon" src="https://i.pinimg.com/236x/02/55/3a/02553ab35a4a3541b9fb3bc8f1fad1bc.jpg">
 
 
 
