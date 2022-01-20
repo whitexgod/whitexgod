@@ -1,6 +1,6 @@
 ### Hi there, I'm whitexgod - aka [Tuhin Mukherjee][website] 👋
 
-<a href="https://whitexgod.github.io/cv-2/index.html">
+<a href="https://cv-with-react.herokuapp.com">
   <img width="100" height="100" align="left" alt="Tap me icon" src="https://media3.giphy.com/media/dCERkihZ9m7xjIvSau/source.gif"> </a> 
 
 
