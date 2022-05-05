@@ -10,13 +10,7 @@
 I am Tuhin, Welcome to my Github Page!
 ## I'm a Student, Developer, and a Learner!
 
-- I have worked on some Machine Learning, Web development and Automation Projects.
 
-- I’m currently working on my coding skills! 
-- I'm trying out differnt languages like JAVA, C, Pyhton to be a cross-platfrom coder.
-- I’m looking to particitate in hackathons.
-- Gaining knowledge about Blockchains.
-- 🥅 2022 Goals: Contribute more to Open Source projects
 
 #About me...
 
@@ -28,7 +22,8 @@ Below are the three main areas of my core interest :-
 * Programming Skills
 * Machine Learning
 * Web Development
-* Blockchains
+* Problem solving
+* Competitive coding
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Connect with me:
@@ -45,8 +40,7 @@ Below are the three main areas of my core interest :-
 <img width="100" height="100" align="left" alt="C icon" src="https://cdn5.vectorstock.com/i/1000x1000/39/29/letter-c-icon-symbol-design-template-sign-type-vector-20953929.jpg"><br>
 <img width="100" height="100" align="left" alt="Machine Learning icon" src="https://www.kindpng.com/picc/m/255-2554071_beltech-2018-icons-webside-schedule-machine-learning-machine.png"><br>
 <img width="100" height="100" align="left" alt="Web development icon" src="https://previews.123rf.com/images/valentint/valentint1704/valentint170400663/75401421-web-development-icon-web-development-website-button-on-white-background-.jpg"><br>
-<img width="150" height="100" align="left" alt="Javascript icon" src="https://user-images.githubusercontent.com/30186107/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png"><br>
-<img width="100" height="100" align="left" alt="Blockchain icon" src="https://thumbs.dreamstime.com/z/blockchain-icon-design-cryptocurrency-vector-digital-logo-blockchain-icon-design-cryptocurrency-vector-digital-logo-201091629.jpg"><br>
+
 </div>
 <br><br><br>
 
@@ -55,11 +49,5 @@ Below are the three main areas of my core interest :-
 Programmers spend more time debugging than coding!
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-[website]: https://whitexgod.github.io/cv-2/index.html
-
-[youtube]: https://www.youtube.com/channel/UCiu8e-IoMY_BDhjjCVYxKKg?view_as=subscriber
 
 [linkedin]: https://www.linkedin.com/in/tuhin-mukherjee-38376219b/
