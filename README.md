@@ -1,6 +1,6 @@
 ### Hi there, I'm whitexgod - aka [Tuhin Mukherjee] <img width="250" height="200" align="right" alt="Tap me icon" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"> </a> 
 
-<a href="https://cv-with-react-b59d9.web.app/" target="_blank">
+<a href="https://resume-12cf7.firebaseapp.com/" target="_blank">
   <img width="100" height="100" align="left" alt="Tap me icon" src="https://media3.giphy.com/media/dCERkihZ9m7xjIvSau/source.gif"> </a> 
 
 
